@@ -37,6 +37,7 @@ class MainActivity : ComponentActivity() {
         Person("JAN", R.drawable.jan, "003"),
         Person("KI", R.drawable.ki, "004"),
         Person("BANK", R.drawable.bank, "005"),
+        Person("BANK", R.drawable.bank, "006"),
 
         )
 
